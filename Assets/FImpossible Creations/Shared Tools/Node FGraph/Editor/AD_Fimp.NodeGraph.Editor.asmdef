@@ -1,0 +1,21 @@
+{
+    "name": "AD_Fimp.NodeGraph.Editor",
+    "references": [
+        "GUID:103829f02546ce64db83be245c91a2cc",
+        "GUID:4d3c0eb3c5c6f2243952516f8611fff4",
+        "GUID:67234053b6be56d4680434077ca8fd90",
+        "GUID:91666505de5b63b4cb3144355dd9469d",
+        "GUID:da06b041f8d5f1f4684ddcd7d6eb9129"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,25 @@
+{
+    "name": "AD_FimpPGG.Editor",
+    "references": [
+        "GUID:032bd11c46e0cfb40bcec14264242e04",
+        "GUID:67234053b6be56d4680434077ca8fd90",
+        "GUID:227bed29f43702842b27f8b3c941a1d5",
+        "GUID:dd2b710f33980904bafbd0e9c636fef9",
+        "GUID:4d3c0eb3c5c6f2243952516f8611fff4",
+        "GUID:0e6b1f35d8416da46a5e09a445db4184",
+        "GUID:da06b041f8d5f1f4684ddcd7d6eb9129",
+        "GUID:91666505de5b63b4cb3144355dd9469d",
+        "GUID:def19ec7b336fa04eab019083d0e5b62"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

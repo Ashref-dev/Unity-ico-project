@@ -1,0 +1,23 @@
+{
+    "name": "AD_FimpPGG",
+    "references": [
+        "GUID:227bed29f43702842b27f8b3c941a1d5",
+        "GUID:67234053b6be56d4680434077ca8fd90",
+        "GUID:0e6b1f35d8416da46a5e09a445db4184",
+        "GUID:4d3c0eb3c5c6f2243952516f8611fff4",
+        "GUID:c09aa9cea864c914e8d3136820cd64e6",
+        "GUID:7fe40b228d32d4d4e9b1cf8eb73412fd",
+        "GUID:da06b041f8d5f1f4684ddcd7d6eb9129",
+        "GUID:3fc5d6f74ab756e4da1a5c087ef2c703",
+        "GUID:934bdcc94c091ac4db37ff5fa788089b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

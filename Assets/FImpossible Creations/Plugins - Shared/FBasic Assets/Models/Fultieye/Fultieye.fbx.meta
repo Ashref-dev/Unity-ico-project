@@ -1,0 +1,1574 @@
+fileFormatVersion: 2
+guid: 4b6a45d58b42ccd41a04a23a18bb31b2
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: BHead_1
+  - first:
+      1: 100002
+    second: BHead_2
+  - first:
+      1: 100004
+    second: BHead_3
+  - first:
+      1: 100006
+    second: BLeftLeg_1
+  - first:
+      1: 100008
+    second: BLeftLeg_1_Pole
+  - first:
+      1: 100010
+    second: BLeftLeg_2
+  - first:
+      1: 100012
+    second: BLeftLeg_3
+  - first:
+      1: 100014
+    second: BLeftLeg_3_Goal
+  - first:
+      1: 100016
+    second: BRightLeg
+  - first:
+      1: 100018
+    second: BRightLeg_1
+  - first:
+      1: 100020
+    second: BRightLeg_2
+  - first:
+      1: 100022
+    second: BRightLeg_2_Goal
+  - first:
+      1: 100024
+    second: BRightLeg_Pole
+  - first:
+      1: 100026
+    second: BSkeleton
+  - first:
+      1: 100028
+    second: BSpine
+  - first:
+      1: 100030
+    second: Controlls
+  - first:
+      1: 100032
+    second: EyeCenter
+  - first:
+      1: 100034
+    second: EyeCenter_2
+  - first:
+      1: 100036
+    second: EyeCenterDown
+  - first:
+      1: 100038
+    second: EyeCenterUp
+  - first:
+      1: 100040
+    second: EyeLeft
+  - first:
+      1: 100042
+    second: EyeLeft_1
+  - first:
+      1: 100044
+    second: EyeLeft_2
+  - first:
+      1: 100046
+    second: EyeRight
+  - first:
+      1: 100048
+    second: EyeRight_1
+  - first:
+      1: 100050
+    second: EyeRight_2
+  - first:
+      1: 100052
+    second: //RootNode
+  - first:
+      1: 100054
+    second: Fultieye_Body
+  - first:
+      1: 100056
+    second: LeftEye
+  - first:
+      1: 100058
+    second: LeftEye_10
+  - first:
+      1: 100060
+    second: LeftEye_2
+  - first:
+      1: 100062
+    second: LeftEye_3
+  - first:
+      1: 100064
+    second: LeftEye_4
+  - first:
+      1: 100066
+    second: LeftEye_5
+  - first:
+      1: 100068
+    second: LeftEye_6
+  - first:
+      1: 100070
+    second: LeftEye_7
+  - first:
+      1: 100072
+    second: LeftEye_8
+  - first:
+      1: 100074
+    second: LeftEye_9
+  - first:
+      1: 100076
+    second: LeftEyelidDown
+  - first:
+      1: 100078
+    second: LeftEyelidDown_10
+  - first:
+      1: 100080
+    second: LeftEyelidDown_2
+  - first:
+      1: 100082
+    second: LeftEyelidDown_3
+  - first:
+      1: 100084
+    second: LeftEyelidDown_4
+  - first:
+      1: 100086
+    second: LeftEyelidDown_5
+  - first:
+      1: 100088
+    second: LeftEyelidDown_6
+  - first:
+      1: 100090
+    second: LeftEyelidDown_7
+  - first:
+      1: 100092
+    second: LeftEyelidDown_8
+  - first:
+      1: 100094
+    second: LeftEyelidDown_9
+  - first:
+      1: 100096
+    second: LeftEyelidUp
+  - first:
+      1: 100098
+    second: LeftEyelidUp_10
+  - first:
+      1: 100100
+    second: LeftEyelidUp_2
+  - first:
+      1: 100102
+    second: LeftEyelidUp_3
+  - first:
+      1: 100104
+    second: LeftEyelidUp_4
+  - first:
+      1: 100106
+    second: LeftEyelidUp_5
+  - first:
+      1: 100108
+    second: LeftEyelidUp_6
+  - first:
+      1: 100110
+    second: LeftEyelidUp_7
+  - first:
+      1: 100112
+    second: LeftEyelidUp_8
+  - first:
+      1: 100114
+    second: LeftEyelidUp_9
+  - first:
+      1: 100116
+    second: LeftIris
+  - first:
+      1: 100118
+    second: LeftIris_10
+  - first:
+      1: 100120
+    second: LeftIris_2
+  - first:
+      1: 100122
+    second: LeftIris_3
+  - first:
+      1: 100124
+    second: LeftIris_4
+  - first:
+      1: 100126
+    second: LeftIris_5
+  - first:
+      1: 100128
+    second: LeftIris_6
+  - first:
+      1: 100130
+    second: LeftIris_7
+  - first:
+      1: 100132
+    second: LeftIris_8
+  - first:
+      1: 100134
+    second: LeftIris_9
+  - first:
+      1: 100136
+    second: Lower_Eyes
+  - first:
+      1: 100138
+    second: UpEyes
+  - first:
+      4: 400000
+    second: BHead_1
+  - first:
+      4: 400002
+    second: BHead_2
+  - first:
+      4: 400004
+    second: BHead_3
+  - first:
+      4: 400006
+    second: BLeftLeg_1
+  - first:
+      4: 400008
+    second: BLeftLeg_1_Pole
+  - first:
+      4: 400010
+    second: BLeftLeg_2
+  - first:
+      4: 400012
+    second: BLeftLeg_3
+  - first:
+      4: 400014
+    second: BLeftLeg_3_Goal
+  - first:
+      4: 400016
+    second: BRightLeg
+  - first:
+      4: 400018
+    second: BRightLeg_1
+  - first:
+      4: 400020
+    second: BRightLeg_2
+  - first:
+      4: 400022
+    second: BRightLeg_2_Goal
+  - first:
+      4: 400024
+    second: BRightLeg_Pole
+  - first:
+      4: 400026
+    second: BSkeleton
+  - first:
+      4: 400028
+    second: BSpine
+  - first:
+      4: 400030
+    second: Controlls
+  - first:
+      4: 400032
+    second: EyeCenter
+  - first:
+      4: 400034
+    second: EyeCenter_2
+  - first:
+      4: 400036
+    second: EyeCenterDown
+  - first:
+      4: 400038
+    second: EyeCenterUp
+  - first:
+      4: 400040
+    second: EyeLeft
+  - first:
+      4: 400042
+    second: EyeLeft_1
+  - first:
+      4: 400044
+    second: EyeLeft_2
+  - first:
+      4: 400046
+    second: EyeRight
+  - first:
+      4: 400048
+    second: EyeRight_1
+  - first:
+      4: 400050
+    second: EyeRight_2
+  - first:
+      4: 400052
+    second: //RootNode
+  - first:
+      4: 400054
+    second: Fultieye_Body
+  - first:
+      4: 400056
+    second: LeftEye
+  - first:
+      4: 400058
+    second: LeftEye_10
+  - first:
+      4: 400060
+    second: LeftEye_2
+  - first:
+      4: 400062
+    second: LeftEye_3
+  - first:
+      4: 400064
+    second: LeftEye_4
+  - first:
+      4: 400066
+    second: LeftEye_5
+  - first:
+      4: 400068
+    second: LeftEye_6
+  - first:
+      4: 400070
+    second: LeftEye_7
+  - first:
+      4: 400072
+    second: LeftEye_8
+  - first:
+      4: 400074
+    second: LeftEye_9
+  - first:
+      4: 400076
+    second: LeftEyelidDown
+  - first:
+      4: 400078
+    second: LeftEyelidDown_10
+  - first:
+      4: 400080
+    second: LeftEyelidDown_2
+  - first:
+      4: 400082
+    second: LeftEyelidDown_3
+  - first:
+      4: 400084
+    second: LeftEyelidDown_4
+  - first:
+      4: 400086
+    second: LeftEyelidDown_5
+  - first:
+      4: 400088
+    second: LeftEyelidDown_6
+  - first:
+      4: 400090
+    second: LeftEyelidDown_7
+  - first:
+      4: 400092
+    second: LeftEyelidDown_8
+  - first:
+      4: 400094
+    second: LeftEyelidDown_9
+  - first:
+      4: 400096
+    second: LeftEyelidUp
+  - first:
+      4: 400098
+    second: LeftEyelidUp_10
+  - first:
+      4: 400100
+    second: LeftEyelidUp_2
+  - first:
+      4: 400102
+    second: LeftEyelidUp_3
+  - first:
+      4: 400104
+    second: LeftEyelidUp_4
+  - first:
+      4: 400106
+    second: LeftEyelidUp_5
+  - first:
+      4: 400108
+    second: LeftEyelidUp_6
+  - first:
+      4: 400110
+    second: LeftEyelidUp_7
+  - first:
+      4: 400112
+    second: LeftEyelidUp_8
+  - first:
+      4: 400114
+    second: LeftEyelidUp_9
+  - first:
+      4: 400116
+    second: LeftIris
+  - first:
+      4: 400118
+    second: LeftIris_10
+  - first:
+      4: 400120
+    second: LeftIris_2
+  - first:
+      4: 400122
+    second: LeftIris_3
+  - first:
+      4: 400124
+    second: LeftIris_4
+  - first:
+      4: 400126
+    second: LeftIris_5
+  - first:
+      4: 400128
+    second: LeftIris_6
+  - first:
+      4: 400130
+    second: LeftIris_7
+  - first:
+      4: 400132
+    second: LeftIris_8
+  - first:
+      4: 400134
+    second: LeftIris_9
+  - first:
+      4: 400136
+    second: Lower_Eyes
+  - first:
+      4: 400138
+    second: UpEyes
+  - first:
+      23: 2300000
+    second: LeftEye
+  - first:
+      23: 2300002
+    second: LeftEye_10
+  - first:
+      23: 2300004
+    second: LeftEye_2
+  - first:
+      23: 2300006
+    second: LeftEye_3
+  - first:
+      23: 2300008
+    second: LeftEye_4
+  - first:
+      23: 2300010
+    second: LeftEye_5
+  - first:
+      23: 2300012
+    second: LeftEye_6
+  - first:
+      23: 2300014
+    second: LeftEye_7
+  - first:
+      23: 2300016
+    second: LeftEye_8
+  - first:
+      23: 2300018
+    second: LeftEye_9
+  - first:
+      23: 2300020
+    second: LeftEyelidDown
+  - first:
+      23: 2300022
+    second: LeftEyelidDown_10
+  - first:
+      23: 2300024
+    second: LeftEyelidDown_2
+  - first:
+      23: 2300026
+    second: LeftEyelidDown_3
+  - first:
+      23: 2300028
+    second: LeftEyelidDown_4
+  - first:
+      23: 2300030
+    second: LeftEyelidDown_5
+  - first:
+      23: 2300032
+    second: LeftEyelidDown_6
+  - first:
+      23: 2300034
+    second: LeftEyelidDown_7
+  - first:
+      23: 2300036
+    second: LeftEyelidDown_8
+  - first:
+      23: 2300038
+    second: LeftEyelidDown_9
+  - first:
+      23: 2300040
+    second: LeftEyelidUp
+  - first:
+      23: 2300042
+    second: LeftEyelidUp_10
+  - first:
+      23: 2300044
+    second: LeftEyelidUp_2
+  - first:
+      23: 2300046
+    second: LeftEyelidUp_3
+  - first:
+      23: 2300048
+    second: LeftEyelidUp_4
+  - first:
+      23: 2300050
+    second: LeftEyelidUp_5
+  - first:
+      23: 2300052
+    second: LeftEyelidUp_6
+  - first:
+      23: 2300054
+    second: LeftEyelidUp_7
+  - first:
+      23: 2300056
+    second: LeftEyelidUp_8
+  - first:
+      23: 2300058
+    second: LeftEyelidUp_9
+  - first:
+      23: 2300060
+    second: LeftIris
+  - first:
+      23: 2300062
+    second: LeftIris_10
+  - first:
+      23: 2300064
+    second: LeftIris_2
+  - first:
+      23: 2300066
+    second: LeftIris_3
+  - first:
+      23: 2300068
+    second: LeftIris_4
+  - first:
+      23: 2300070
+    second: LeftIris_5
+  - first:
+      23: 2300072
+    second: LeftIris_6
+  - first:
+      23: 2300074
+    second: LeftIris_7
+  - first:
+      23: 2300076
+    second: LeftIris_8
+  - first:
+      23: 2300078
+    second: LeftIris_9
+  - first:
+      33: 3300000
+    second: LeftEye
+  - first:
+      33: 3300002
+    second: LeftEye_10
+  - first:
+      33: 3300004
+    second: LeftEye_2
+  - first:
+      33: 3300006
+    second: LeftEye_3
+  - first:
+      33: 3300008
+    second: LeftEye_4
+  - first:
+      33: 3300010
+    second: LeftEye_5
+  - first:
+      33: 3300012
+    second: LeftEye_6
+  - first:
+      33: 3300014
+    second: LeftEye_7
+  - first:
+      33: 3300016
+    second: LeftEye_8
+  - first:
+      33: 3300018
+    second: LeftEye_9
+  - first:
+      33: 3300020
+    second: LeftEyelidDown
+  - first:
+      33: 3300022
+    second: LeftEyelidDown_10
+  - first:
+      33: 3300024
+    second: LeftEyelidDown_2
+  - first:
+      33: 3300026
+    second: LeftEyelidDown_3
+  - first:
+      33: 3300028
+    second: LeftEyelidDown_4
+  - first:
+      33: 3300030
+    second: LeftEyelidDown_5
+  - first:
+      33: 3300032
+    second: LeftEyelidDown_6
+  - first:
+      33: 3300034
+    second: LeftEyelidDown_7
+  - first:
+      33: 3300036
+    second: LeftEyelidDown_8
+  - first:
+      33: 3300038
+    second: LeftEyelidDown_9
+  - first:
+      33: 3300040
+    second: LeftEyelidUp
+  - first:
+      33: 3300042
+    second: LeftEyelidUp_10
+  - first:
+      33: 3300044
+    second: LeftEyelidUp_2
+  - first:
+      33: 3300046
+    second: LeftEyelidUp_3
+  - first:
+      33: 3300048
+    second: LeftEyelidUp_4
+  - first:
+      33: 3300050
+    second: LeftEyelidUp_5
+  - first:
+      33: 3300052
+    second: LeftEyelidUp_6
+  - first:
+      33: 3300054
+    second: LeftEyelidUp_7
+  - first:
+      33: 3300056
+    second: LeftEyelidUp_8
+  - first:
+      33: 3300058
+    second: LeftEyelidUp_9
+  - first:
+      33: 3300060
+    second: LeftIris
+  - first:
+      33: 3300062
+    second: LeftIris_10
+  - first:
+      33: 3300064
+    second: LeftIris_2
+  - first:
+      33: 3300066
+    second: LeftIris_3
+  - first:
+      33: 3300068
+    second: LeftIris_4
+  - first:
+      33: 3300070
+    second: LeftIris_5
+  - first:
+      33: 3300072
+    second: LeftIris_6
+  - first:
+      33: 3300074
+    second: LeftIris_7
+  - first:
+      33: 3300076
+    second: LeftIris_8
+  - first:
+      33: 3300078
+    second: LeftIris_9
+  - first:
+      43: 4300000
+    second: LeftEyelidDown
+  - first:
+      43: 4300002
+    second: LeftEyelidUp
+  - first:
+      43: 4300004
+    second: LeftEye
+  - first:
+      43: 4300006
+    second: LeftIris
+  - first:
+      43: 4300008
+    second: LeftEyelidDown_2
+  - first:
+      43: 4300010
+    second: LeftEyelidUp_2
+  - first:
+      43: 4300012
+    second: LeftIris_2
+  - first:
+      43: 4300014
+    second: LeftEye_2
+  - first:
+      43: 4300016
+    second: LeftEyelidDown_3
+  - first:
+      43: 4300018
+    second: LeftEyelidUp_3
+  - first:
+      43: 4300020
+    second: LeftIris_3
+  - first:
+      43: 4300022
+    second: LeftEye_3
+  - first:
+      43: 4300024
+    second: LeftEyelidDown_4
+  - first:
+      43: 4300026
+    second: LeftEyelidUp_4
+  - first:
+      43: 4300028
+    second: LeftEye_4
+  - first:
+      43: 4300030
+    second: LeftIris_4
+  - first:
+      43: 4300032
+    second: LeftEyelidDown_5
+  - first:
+      43: 4300034
+    second: LeftEyelidUp_5
+  - first:
+      43: 4300036
+    second: LeftEye_5
+  - first:
+      43: 4300038
+    second: LeftIris_5
+  - first:
+      43: 4300040
+    second: LeftEyelidDown_6
+  - first:
+      43: 4300042
+    second: LeftEyelidUp_6
+  - first:
+      43: 4300044
+    second: LeftEye_6
+  - first:
+      43: 4300046
+    second: LeftIris_6
+  - first:
+      43: 4300048
+    second: LeftEyelidDown_7
+  - first:
+      43: 4300050
+    second: LeftEyelidUp_7
+  - first:
+      43: 4300052
+    second: LeftEye_7
+  - first:
+      43: 4300054
+    second: LeftIris_7
+  - first:
+      43: 4300056
+    second: LeftEyelidDown_8
+  - first:
+      43: 4300058
+    second: LeftEyelidUp_8
+  - first:
+      43: 4300060
+    second: LeftEye_8
+  - first:
+      43: 4300062
+    second: LeftIris_8
+  - first:
+      43: 4300064
+    second: LeftEyelidDown_9
+  - first:
+      43: 4300066
+    second: LeftEyelidUp_9
+  - first:
+      43: 4300068
+    second: LeftEye_9
+  - first:
+      43: 4300070
+    second: LeftIris_9
+  - first:
+      43: 4300072
+    second: LeftEyelidDown_10
+  - first:
+      43: 4300074
+    second: LeftEyelidUp_10
+  - first:
+      43: 4300076
+    second: LeftEye_10
+  - first:
+      43: 4300078
+    second: LeftIris_10
+  - first:
+      43: 4300080
+    second: Fultieye_Body
+  - first:
+      74: 7400000
+    second: Fultieye|Idle
+  - first:
+      74: 7400002
+    second: Fultieye|Walk
+  - first:
+      74: 7400004
+    second: Fultieye|Scream
+  - first:
+      74: 7400006
+    second: Fultieye|Attack
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Fultieye_Body
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fultieye|Idle
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 10
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BSkeleton
+        weight: 1
+      - path: BSkeleton/BLeftLeg_1_Pole
+        weight: 1
+      - path: BSkeleton/BLeftLeg_3_Goal
+        weight: 1
+      - path: BSkeleton/BRightLeg_2_Goal
+        weight: 1
+      - path: BSkeleton/BRightLeg_Pole
+        weight: 1
+      - path: BSkeleton/BSpine
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/BHead_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEye_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEye_10/LeftIris_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEyelidDown_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEyelidUp_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEye_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEye_9/LeftIris_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEyelidDown_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEyelidUp_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEye_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEye_8/LeftIris_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEyelidDown_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEyelidUp_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEye_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEye_7/LeftIris_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEyelidDown_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEyelidUp_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEye_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEyelidDown_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEyelidUp_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftIris_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEye_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEye_4/LeftIris_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEyelidDown_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEyelidUp_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEye_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEyelidDown_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEyelidUp_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftIris_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEye
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEye/LeftIris
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEyelidDown
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEyelidUp
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEye_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEye_6/LeftIris_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEyelidDown_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEyelidUp_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEye_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEye_5/LeftIris_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEyelidDown_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEyelidUp_5
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1/BLeftLeg_2
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1/BLeftLeg_2/BLeftLeg_3
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg/BRightLeg_1
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg/BRightLeg_1/BRightLeg_2
+        weight: 1
+      - path: Controlls
+        weight: 1
+      - path: Fultieye_Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fultieye|Walk
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 40
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BSkeleton
+        weight: 1
+      - path: BSkeleton/BLeftLeg_1_Pole
+        weight: 1
+      - path: BSkeleton/BLeftLeg_3_Goal
+        weight: 1
+      - path: BSkeleton/BRightLeg_2_Goal
+        weight: 1
+      - path: BSkeleton/BRightLeg_Pole
+        weight: 1
+      - path: BSkeleton/BSpine
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/BHead_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEye_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEye_10/LeftIris_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEyelidDown_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEyelidUp_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEye_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEye_9/LeftIris_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEyelidDown_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEyelidUp_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEye_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEye_8/LeftIris_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEyelidDown_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEyelidUp_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEye_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEye_7/LeftIris_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEyelidDown_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEyelidUp_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEye_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEyelidDown_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEyelidUp_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftIris_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEye_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEye_4/LeftIris_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEyelidDown_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEyelidUp_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEye_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEyelidDown_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEyelidUp_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftIris_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEye
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEye/LeftIris
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEyelidDown
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEyelidUp
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEye_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEye_6/LeftIris_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEyelidDown_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEyelidUp_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEye_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEye_5/LeftIris_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEyelidDown_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEyelidUp_5
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1/BLeftLeg_2
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1/BLeftLeg_2/BLeftLeg_3
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg/BRightLeg_1
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg/BRightLeg_1/BRightLeg_2
+        weight: 1
+      - path: Controlls
+        weight: 1
+      - path: Fultieye_Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fultieye|Scream
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 100
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BSkeleton
+        weight: 1
+      - path: BSkeleton/BLeftLeg_1_Pole
+        weight: 1
+      - path: BSkeleton/BLeftLeg_3_Goal
+        weight: 1
+      - path: BSkeleton/BRightLeg_2_Goal
+        weight: 1
+      - path: BSkeleton/BRightLeg_Pole
+        weight: 1
+      - path: BSkeleton/BSpine
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/BHead_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEye_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEye_10/LeftIris_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEyelidDown_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEyelidUp_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEye_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEye_9/LeftIris_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEyelidDown_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEyelidUp_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEye_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEye_8/LeftIris_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEyelidDown_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEyelidUp_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEye_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEye_7/LeftIris_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEyelidDown_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEyelidUp_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEye_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEyelidDown_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEyelidUp_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftIris_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEye_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEye_4/LeftIris_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEyelidDown_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEyelidUp_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEye_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEyelidDown_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEyelidUp_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftIris_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEye
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEye/LeftIris
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEyelidDown
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEyelidUp
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEye_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEye_6/LeftIris_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEyelidDown_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEyelidUp_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEye_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEye_5/LeftIris_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEyelidDown_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEyelidUp_5
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1/BLeftLeg_2
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1/BLeftLeg_2/BLeftLeg_3
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg/BRightLeg_1
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg/BRightLeg_1/BRightLeg_2
+        weight: 1
+      - path: Controlls
+        weight: 1
+      - path: Fultieye_Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fultieye|Attack
+      takeName: C4D Animation Take
+      internalID: 0
+      firstFrame: 70
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BSkeleton
+        weight: 1
+      - path: BSkeleton/BLeftLeg_1_Pole
+        weight: 1
+      - path: BSkeleton/BLeftLeg_3_Goal
+        weight: 1
+      - path: BSkeleton/BRightLeg_2_Goal
+        weight: 1
+      - path: BSkeleton/BRightLeg_Pole
+        weight: 1
+      - path: BSkeleton/BSpine
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/BHead_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEye_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEye_10/LeftIris_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEyelidDown_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenter_2/LeftEyelidUp_10
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEye_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEye_9/LeftIris_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEyelidDown_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeCenterUp/LeftEyelidUp_9
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEye_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEye_8/LeftIris_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEyelidDown_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeLeft/LeftEyelidUp_8
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEye_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEye_7/LeftIris_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEyelidDown_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/BHead_2/UpEyes/EyeRight/LeftEyelidUp_7
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEye_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEyelidDown_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftEyelidUp_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenter/LeftIris_3
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEye_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEye_4/LeftIris_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEyelidDown_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeCenterDown/LeftEyelidUp_4
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEye_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEyelidDown_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftEyelidUp_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_1/LeftIris_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEye
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEye/LeftIris
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEyelidDown
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeLeft_2/LeftEyelidUp
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEye_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEye_6/LeftIris_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEyelidDown_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_1/LeftEyelidUp_6
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEye_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEye_5/LeftIris_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEyelidDown_5
+        weight: 1
+      - path: BSkeleton/BSpine/BHead_1/Lower_Eyes/EyeRight_2/LeftEyelidUp_5
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1/BLeftLeg_2
+        weight: 1
+      - path: BSkeleton/BSpine/BLeftLeg_1/BLeftLeg_2/BLeftLeg_3
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg/BRightLeg_1
+        weight: 1
+      - path: BSkeleton/BSpine/BRightLeg/BRightLeg_1/BRightLeg_2
+        weight: 1
+      - path: Controlls
+        weight: 1
+      - path: Fultieye_Body
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

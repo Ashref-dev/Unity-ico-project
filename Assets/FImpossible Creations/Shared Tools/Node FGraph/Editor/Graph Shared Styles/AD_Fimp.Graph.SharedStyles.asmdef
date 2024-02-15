@@ -1,0 +1,17 @@
+{
+    "name": "AD_Fimp.Graph.SharedStyles",
+    "references": [
+        "GUID:67234053b6be56d4680434077ca8fd90"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
